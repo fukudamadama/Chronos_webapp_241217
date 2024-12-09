@@ -1,0 +1,6 @@
+streamlit
+pandas
+altair
+yfinance
+openai>=1.0.0
+Pillow
