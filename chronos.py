@@ -1,6 +1,7 @@
 import streamlit as st
 from PIL import Image
 from openai import OpenAI
+import openai
 import os
 
 # Streamlit SecretsからAPIキーを取得
